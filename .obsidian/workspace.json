@@ -11,10 +11,14 @@
             "id": "b659118ef319ebb5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Hello World/Hello World.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Hello World"
             }
           }
         ]
@@ -165,8 +169,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b80f37cdb92c1ff3",
+  "active": "b659118ef319ebb5",
   "lastOpenFiles": [
+    "Hello World/Hello World.md",
+    "Hello World",
     "index.md"
   ]
 }
