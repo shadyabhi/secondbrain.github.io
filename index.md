@@ -1,1 +1,9 @@
-My second brain built currently using Quartz. https://quartz.jzhao.xyz/
+# Introduction
+
+My second brain built currently using [Quartz](https://quartz.jzhao.xyz). 
+
+
+
+# Hosting
+
+
