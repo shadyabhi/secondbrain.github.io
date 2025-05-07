@@ -1,1 +1,1 @@
-My second brain built currently using quartz..
+My second brain built currently using Quartz. https://quartz.jzhao.xyz/
