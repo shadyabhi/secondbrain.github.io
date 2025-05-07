@@ -14,8 +14,9 @@ Once files are modified, they're automatically written to a remote `Git reposito
 
 ## Publish
 
+Once its saved in a Git repository, there is a `Github Action` to publish the site as `Github Pages`.
 
-Once its saved in a Git repository, there is a `Github Action` to publish the site as `Github Page`.
+Now, you can configure a custom domain to host the static content.
 
 
 
