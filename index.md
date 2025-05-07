@@ -14,7 +14,9 @@ Once files are modified, they're automatically written to a remote `Git reposito
 
 Once its saved in a Git repository, this data is available to get published via any free hosting.
 
+## Publish
 
+`Cloudflare Pages` reads this Githu
 
 
 
