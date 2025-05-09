@@ -151,12 +151,12 @@
               "title": "Outline of index"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,7 +169,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a85057d5acadeb0d",
+  "active": "fb3ac37a00241bc5",
   "lastOpenFiles": [
     "Private.md",
     "Public.md",
