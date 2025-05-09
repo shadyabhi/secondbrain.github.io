@@ -1,3 +1,6 @@
+---
+publish: "true"
+---
 #wiki #staticwebsite #quartz
 
 # Introduction
